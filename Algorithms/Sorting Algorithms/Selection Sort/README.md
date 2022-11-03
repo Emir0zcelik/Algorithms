@@ -2,15 +2,15 @@
 # Selection Sort Implementation
 
 ## Best Case
-### Reverse ordered elements
+### It occurs when the array is already sorted
 #### O(n^2)
 
 ## Worst Case 
-### Array is in sorted ascending order
+### The array is in descending order
 #### O(n^2)
 
 ## Average Case
-### Each element is about halfway in order
+### It occurs when the elements of the array are in jumbled order
 #### O(n^2)
 
 ## Output
