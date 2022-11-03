@@ -9,7 +9,7 @@
 #### O(n^2)
 
 ## Average Case
-### Each element is about halfway ing order
+### Each element is about halfway in order
 #### O(n^2)
 
 ## Output
